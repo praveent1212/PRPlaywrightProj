@@ -1,0 +1,10 @@
+{
+    "editor.suggest.showClasses": true,
+    "editor.suggest.showFields": true,
+    "editor.quickSuggestions": {
+
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    }
+}
